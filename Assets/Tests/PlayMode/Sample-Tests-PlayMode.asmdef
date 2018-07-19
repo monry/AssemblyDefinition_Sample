@@ -1,6 +1,9 @@
 {
     "name": "Sample-Tests-PlayMode",
-    "references": [],
+    "references": [
+        "Sample",
+        "Sample-firstpass"
+    ],
     "optionalUnityReferences": [
         "TestAssemblies"
     ],

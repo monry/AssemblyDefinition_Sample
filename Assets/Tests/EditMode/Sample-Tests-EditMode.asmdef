@@ -1,6 +1,9 @@
 {
     "name": "Sample-Tests-EditMode",
-    "references": [],
+    "references": [
+        "Sample",
+        "Sample-firstpass"
+    ],
     "optionalUnityReferences": [
         "TestAssemblies"
     ],
